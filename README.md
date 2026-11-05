@@ -39,3 +39,20 @@
 <p align="left">
   <a href="https://linkedin.com" target="blank"><img src="https://shields.io" /></a>
 </p>
+
+---
+
+## 📂 Featured Projects
+
+### 🏏 MS Dhoni Career Statistics Analysis Dashboard
+<p align="left">
+  
+  <img src="https://unsplash.com" width="600" alt="Dashboard Preview" />
+</p>
+
+- **Project Overview:** Designed and developed an interactive Power BI dashboard analyzing the legendary cricket career of MS Dhoni (2004 - 2019) across ODI, Test, and T20I formats.
+- **Data Pipeline:** Connected **Google Sheets** as a cloud data source directly to **Power BI** for automated data extraction and modeling.
+- **Tech Stack:** `Power BI Desktop` | `Google Sheets` | `Power Query` | `DAX`
+- **Key Insights Delivered:** Visualized 17,266+ career runs, strike rates, boundary distributions (4s & 6s), and custom tracking for centuries & half-centuries (Tons) with an intuitive dark-themed sports UI.
+- 🔗 **[View Repository / Source Code](https://github.com)**
+
