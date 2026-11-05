@@ -15,10 +15,10 @@
 ## 🚀 Technical Skills & Tools
 
 ### 📊 Data Analytics & BI
-![Power BI](https://shields.io) ![SQL](https://shields.io) ![Google Sheets](https://shields.io) ![Excel](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ### 📑 Application Support & QA Testing
-![Application Support](https://shields.io) ![Manual Testing](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" />
 
 ---
 
@@ -35,18 +35,10 @@
 
 ---
 
-## 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" /></a>
-</p>
-
----
-
 ## 📂 Featured Projects
 
 ### 🏏 MS Dhoni Career Statistics Analysis Dashboard
 <p align="left">
-  
   <img src="https://unsplash.com" width="600" alt="Dashboard Preview" />
 </p>
 
@@ -56,3 +48,9 @@
 - **Key Insights Delivered:** Visualized 17,266+ career runs, strike rates, boundary distributions (4s & 6s), and custom tracking for centuries & half-centuries (Tons) with an intuitive dark-themed sports UI.
 - 🔗 **[View Repository / Source Code](https://github.com)**
 
+---
+
+## 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" /></a>
+</p>
