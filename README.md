@@ -26,6 +26,9 @@
 
 ### 🏏 MS Dhoni Career Statistics Analysis Dashboard
 
+<img width="1326" height="747" alt="image" src="https://github.com/user-attachments/assets/ac4c2e49-03ea-47f8-8ece-91087ff1fff6" />
+
+
 - **Project Overview:** Designed and developed an interactive Power BI dashboard analyzing the legendary cricket career of MS Dhoni (2004 - 2019) across ODI, Test, and T20I formats.
 - **Data Pipeline:** Connected **Google Sheets** as a cloud data source directly to **Power BI** for automated data extraction and modeling.
 - **Tech Stack:** `Power BI Desktop` | `Google Sheets` | `Power Query` | `DAX`
