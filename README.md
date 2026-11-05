@@ -26,7 +26,8 @@
 
 ### 🏏 MS Dhoni Career Statistics Analysis Dashboard
 
-<img width="1326" height="747" alt="image" src="https://github.com/user-attachments/assets/ac4c2e49-03ea-47f8-8ece-91087ff1fff6" />
+<img width="1327" height="745" alt="image" src="https://github.com/user-attachments/assets/1f8a9608-ca50-463a-ab37-207e749e1222" />
+
 
 
 - **Project Overview:** Designed and developed an interactive Power BI dashboard analyzing the legendary cricket career of MS Dhoni (2004 - 2019) across ODI, Test, and T20I formats.
