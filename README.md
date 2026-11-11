@@ -1,4 +1,12 @@
-# 🙋‍♂️ Hi there, I'm Shivam Kumar Pandey! 👋
+<p align="center">
+  <img src="./banner.png" alt="Shivam Kumar Pandey Banner" width="100%" />
+</p>
+
+<br/>
+
+<img align="right" alt="Coding & Analytics Animation" width="280" src="https://giphy.com" />
+
+# 🙋‍♂️ Hi, I'm Shivam Kumar Pandey! 👋
 
 ## 📊 About Me
 - 📈 **Core Passion:** Finding meaningful insights and hidden stories from raw data.
