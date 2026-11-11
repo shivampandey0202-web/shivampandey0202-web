@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./banner.png" alt="Shivam Kumar Pandey Banner" width="100%" />
+  <img src="https://vercel.app" width="100%" />
 </p>
 
 <br/>
 
-<img align="right" alt="Coding & Analytics Animation" width="280" src="https://giphy.com" />
+<img align="right" alt="Coding & Analytics Animation" width="300" src="https://githubusercontent.com" />
 
 # 🙋‍♂️ Hi, I'm Shivam Kumar Pandey! 👋
 
