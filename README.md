@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="1327" height="745" alt="image" src="data:image/jpeg;base64,/9j" />
-
+  <img width="2064" height="512" alt="banner png" src="https://github.com/user-attachments/assets/a0f2b69f-da07-40fa-9de8-3c8f05b67771" />
 </p>
 
 <br/>
